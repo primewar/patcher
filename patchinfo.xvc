@@ -1191,6 +1191,11 @@ Chef\BProject\Mantle\A\mark\black\src\black_mark\MainMaterial.mst b9d860bcd15215
 Chef\BProject\Mantle\A\mark\black\src\black_mark\Manteau_black_mark.dds 685d86aae7aa8d11133db416bdfb560d2cc6f35c
 Chef\BProject\Mantle\A\mark\black\src\black_mark\mark.R3E 4d9576e12ce1ebb7d5d5c923df47163e814c3301
 Chef\BProject\Mantle\A\mark\black\src\black_mark.spt 1dec95987f9006bc9773c2065d05d16645a97095
+Chef\BProject\Mantle\A\mark\gold\src\gold_mark\Default_01_0.mst e5ab703fbed802fffcc629714edaf65759dcc173
+Chef\BProject\Mantle\A\mark\gold\src\gold_mark\MainMaterial.mst b9d860bcd15215f1049c4e30330e2fdcb4fa2547
+Chef\BProject\Mantle\A\mark\gold\src\gold_mark\Manteau_gold_mark.dds 5b7c4667311460de1360294287cca6ab76f99dae
+Chef\BProject\Mantle\A\mark\gold\src\gold_mark\mark.R3E 4d9576e12ce1ebb7d5d5c923df47163e814c3301
+Chef\BProject\Mantle\A\mark\gold\src\gold_mark.spt 5e958eec936b533b8637c77fab10f70f580026ea
 Chef\BProject\Mantle\B\black\src\58033\58033.R3E 0ab2a97e53ce86d9c9f80d1e88ed365244bbbfb4
 Chef\BProject\Mantle\B\black\src\58033\aru.dds 7ed51d10959d772117cdd38e063d692db60fee6e
 Chef\BProject\Mantle\B\black\src\58033\aru_0.mst a8059f0d88e23cfbe2ea43344901d58bbe011ea1
@@ -3288,7 +3293,7 @@ Item\Weapon\Tex\WEVT00.RFS 3eda4e8f87e6cf327017968eefc7e073ee395411
 Map\Exile_Land\Exile_land.ebp 58c3e4ba4f984bc6121bc5324078593fdfe64a8f
 Map\Mountain_Beast\Mountain_Beast.ebp 151705b0680c8a1ef3ac835387ad35bd8de305d8
 MSS32.DLL 8e7429fbde9144bba3e65d1ea4f7886b34a2fb30
-RF_Online.bin d4e6f00ef7f4898144c9440d80a68765b9fd4db7
+RF_Online.bin 45d6828a456df66bde1a3ba59e8315d7bf877b53
 SpriteImage\common\class.spr 365e9ddf16c0f87605964909aacf423479bcfba7
 SpriteImage\common\cribattle.spr 668656b14622c8a7cb088b6d733ab0b1a43bab7c
 SpriteImage\common\dungeon.spr d7b8f43691110b1994e2b9dab859ceb9de222187
