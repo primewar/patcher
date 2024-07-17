@@ -2916,6 +2916,7 @@ DataTable\en-gb\NDMsgMonster.edf 3b25cac143540e21336a6c88227bfe361359fa87
 DataTable\en-gb\NDQuest.edf 7a07e694b8cc37874b85fe8eb05144919cef41dd
 DataTable\en-gb\NDSkillForce.edf 8179ac761e420daebbcfef1317ed9fe5174418cf
 DataTable\en-gb\NDStore.edf 5da06cc4f0e056ee9273190b4e00b8ed37d06989
+DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf 8f7eb058401f6b206c48453bf1671a56f13e4c8b
 DataTable\font.ini 9b078ee80610536228a5b4018c92069ab3b8967d
 DataTable\Item.edf ed311b5df1471e87e14211775ee289d23739a04a
@@ -3552,7 +3553,7 @@ Map\Platform01\Sky\Platform01Sky.r3t b611f495991684539c6a3bd83fc749116e4ef9ce
 Map\Platform01\Sky2\Platform01sky2.mtf d680b37e07098aa76590cc161da4b9594b73a26d
 Map\Platform01\Sky2\Platform01sky2.r3t 319316af995717797054da4f60dffc23ca168596
 MSS32.DLL 8e7429fbde9144bba3e65d1ea4f7886b34a2fb30
-RF_Online.bin 3f001465fafe4cc3e6221e8beed199c3e0a969ff
+RF_Online.bin 5190472fd4d329868d8cb4e37e443352f39ba8d9
 SpriteImage\ads\available.png c073e2b452b3e1a6f60dafc1343bd9c907e9fd8a
 SpriteImage\ads\init.ini 0bf80044bac967970fad4e725fbd8c93a62331e3
 SpriteImage\common\class.spr 365e9ddf16c0f87605964909aacf423479bcfba7
